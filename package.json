@@ -1,0 +1,15 @@
+{
+  "name": "mailgun_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hkurra",
+  "license": "ISC",
+  "dependencies": {
+    "mailgun-js": "^0.22.0",
+    "nodemailer": "^6.6.3"
+  }
+}
